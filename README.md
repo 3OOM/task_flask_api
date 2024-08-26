@@ -14,8 +14,7 @@ This project is a RESTful API for a Task Management System, built using Flask an
 - [Testing](#testing)
 - [Assumptions and Approach](#assumptions-and-approach)
 - [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Project Structure
 
